@@ -13,7 +13,7 @@ int main()
   sum = integer1 + integer2;
 
   printf("Sum is %d\n", sum );
-  test2
+  test
 
   return 0;
 }
